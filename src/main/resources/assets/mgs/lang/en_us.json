@@ -1,0 +1,7 @@
+{
+  "message.mgs.gravestone.missingproperty": "This gravestone is not linked to any data!",
+  "message.mgs.gravestone.missingowner": "This gravestone does not belong to you!",
+  "message.mgs.gravestone.missinginventory": "Your inventory was not recorded in this gravestone...",
+  "render.gravestone.nametag": "'s Grave",
+  "block.mgs.gravestone": "Gravestone"
+}

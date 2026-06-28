@@ -1,0 +1,7 @@
+{
+  "message.mgs.gravestone.missingproperty": "この墓石には情報が紐づいていません！",
+  "message.mgs.gravestone.missingowner": "この墓石はあなたのものではありません！",
+  "message.mgs.gravestone.missinginventory": "この墓石にあなたのインベントリが記録されていませんでした...",
+  "render.gravestone.nametag":" の墓",
+  "block.mgs.gravestone":"墓石"
+}
